@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build directories
+dist/
+build/
+
+# Package lock file
+package-lock.json
